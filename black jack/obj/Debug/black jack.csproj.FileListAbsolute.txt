@@ -1,0 +1,9 @@
+F:\文档\Visual Studio2013文件\black jack\black jack\bin\Debug\black jack.exe.config
+F:\文档\Visual Studio2013文件\black jack\black jack\obj\Debug\black jack.csprojResolveAssemblyReference.cache
+F:\文档\Visual Studio2013文件\black jack\black jack\obj\Debug\black_jack.blackjack.resources
+F:\文档\Visual Studio2013文件\black jack\black jack\obj\Debug\black_jack.Properties.Resources.resources
+F:\文档\Visual Studio2013文件\black jack\black jack\obj\Debug\black jack.csproj.GenerateResource.Cache
+F:\文档\Visual Studio2013文件\black jack\black jack\bin\Debug\black jack.exe
+F:\文档\Visual Studio2013文件\black jack\black jack\bin\Debug\black jack.pdb
+F:\文档\Visual Studio2013文件\black jack\black jack\obj\Debug\black jack.exe
+F:\文档\Visual Studio2013文件\black jack\black jack\obj\Debug\black jack.pdb

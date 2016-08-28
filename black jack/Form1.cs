@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Resources;
 using System.IO;
 using black_jack.Properties;
-
+2323232
 namespace black_jack
 {
     public partial class blackjack : Form
